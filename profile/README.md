@@ -123,9 +123,8 @@
 
 <br><br>
 
-### Co-working Tool
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/Slack-%6DB33F.svg?style=flat-square&logo=slack&logoColor=white"> 
+### 👤Co-working Tool
+- <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-%6DB33F.svg?style=flat-square&logo=slack&logoColor=white"> 
 
 <br><br>
 
