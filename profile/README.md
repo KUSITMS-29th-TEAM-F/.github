@@ -1,6 +1,6 @@
 # 🎓 유니브핏
-<img width ="1200" height="500" alt="KakaoTalk_Photo_2024-05-01-02-03-21 002" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/59000fe2-c87e-4281-ab03-0d1008623126">
-<img width ="1200" height="500" alt="KakaoTalk_Photo_2024-05-01-02-03-21 001" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/d941cd07-6515-4b50-baac-1048e699340f">
+<img width ="1200" height="400" alt="KakaoTalk_Photo_2024-05-01-02-03-21 002" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/59000fe2-c87e-4281-ab03-0d1008623126">
+<img width ="1200" height="400" alt="KakaoTalk_Photo_2024-05-01-02-03-21 001" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/d941cd07-6515-4b50-baac-1048e699340f">
 
 <br><br>
 
@@ -16,7 +16,7 @@
 # 🕊️ 팀소개
 
 ### 팀명 : 맨동
-<img width ="1200" height="500" alt="KakaoTalk_Photo_2024-05-01-02-07-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/c785c786-7502-44b3-9749-e53b0a969589">
+<img width ="1200" height="400" alt="KakaoTalk_Photo_2024-05-01-02-07-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/c785c786-7502-44b3-9749-e53b0a969589">
 
 <br>
 
