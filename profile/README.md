@@ -107,11 +107,11 @@
 
 이러한 상황 속에서 대학생들이 대학생활에 있어 등록금 부담은 덜고, 학업에 집중할 수 있도록 국가 차원에서도 다양한 장학금 정책을 위해 힘쓰고 있습니다. 구체적으로 2020년 기준 대학교의 장학금 총액은 5조원, 전문대학의 장학금 총액은 1.5조원으로 나타났습니다.
 
-<img width ="400" height="300" alt="KakaoTalk_Photo_2024-05-01-02-47-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/8f351260-069f-4e8c-be18-2397ecdac280">
+<img width ="400" height="250" alt="KakaoTalk_Photo_2024-05-01-02-47-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/8f351260-069f-4e8c-be18-2397ecdac280">
 
 다양한 장학금 제도 속 공급자별 장학금 비율을 살펴보겠습니다. 교외 장학금 (국가장학금, 장학재단/기업/사설기관의 장학금)은 연간 약 4.2조원 규모로, 전체 장학금의 64% 비중을 차지합니다. 또한 대학 내 자체적으로 운영되는 교내 장학금 제도는 연간 약 2.3조원 규모로, 전체 장학금의 36% 비중을 차지하고 있습니다. 
 
-<img width ="300" height="250" alt="KakaoTalk_Photo_2024-05-01-02-48-36" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/594d35d3-208e-4545-bfd9-ae6e8f6e965f">
+<img width ="300" height="220" alt="KakaoTalk_Photo_2024-05-01-02-48-36" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/594d35d3-208e-4545-bfd9-ae6e8f6e965f">
 
 ### 3️⃣ 장학금 수혜, 잘 이뤄지고 있는가?
 
@@ -342,8 +342,9 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 | 유료 &nbsp; | 유니브핏&nbsp; | 교외장학금 운영 기관&nbsp;  | 카카오톡 알림톡을 통한 광고 집행 - 장학금 공고 추천 알림 발송 - 장학금 마감 디데이 알림 발송 - 장학금 관련 공지사항 안내 알림 발송 |
 
 # **🎨 디자인 무드보드**
+<img width="848" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
 
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
+<img width="848" alt="KakaoTalk_Photo_2024-05-01-16-04-59" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/04da68b3-f79b-4de0-8791-6829a7b93ac5">
 
 <br><br>
 
