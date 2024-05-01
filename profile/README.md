@@ -1,7 +1,7 @@
 # 🎓 유니브핏
-<img width ="1200" alt="KakaoTalk_Photo_2024-05-01-02-03-21 002" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/59000fe2-c87e-4281-ab03-0d1008623126">
+<img width ="1920" alt="KakaoTalk_Photo_2024-05-01-02-03-21 002" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/59000fe2-c87e-4281-ab03-0d1008623126">
 
-<img width ="1200" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5bf2321e-aab7-4ea7-a08f-028321e625d7">
+<img width ="1920" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5bf2321e-aab7-4ea7-a08f-028321e625d7">
 
 <br><br>
 
@@ -17,7 +17,7 @@
 # 🕊️ 팀소개
 
 ### 팀명 : 맨동
-<img width ="1200" alt="KakaoTalk_Photo_2024-05-01-02-07-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/c785c786-7502-44b3-9749-e53b0a969589">
+<img width ="1920" alt="KakaoTalk_Photo_2024-05-01-02-07-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/c785c786-7502-44b3-9749-e53b0a969589">
 
 <br>
 
@@ -54,7 +54,7 @@
 
 맨동은 대학생 161명을 대상으로 한 자체 유저리서치를 진행했습니다. 그 결과 교외 장학금의 존재를 알고 있는 대학생은 81.4%에 육박하는 반면, 실제로 교외 장학금을 지원해 본 비율은 41.6%에 불과함을 확인했습니다.
 
-<img width ="1200" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/e2a0549c-871f-4f20-95b6-173cde2d9e25">
+<img width ="1920" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/e2a0549c-871f-4f20-95b6-173cde2d9e25">
 
 
 #### ❔ 장학금에 대한 인지가 직접적인 장학금 신청으로 이어지지 못하는 이유는 무엇일까요?
@@ -184,7 +184,7 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 
 **SAM x 96.8% (유저리서치 결과 서비스 이용 시 교외 장학금 신청 의향이 있는 대학생의 수) = 약 212만**
 
-<img width ="900" alt="KakaoTalk_Photo_2024-05-01-02-57-29" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5ec0e8ca-91c2-4a49-ade5-589bca16e89b">
+<img width ="1920" alt="KakaoTalk_Photo_2024-05-01-02-57-29" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5ec0e8ca-91c2-4a49-ade5-589bca16e89b">
 
 <br>
 
@@ -344,7 +344,7 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 
 ## 4. IA 정보 구조도
 
-<img width="750" alt="KakaoTalk_Photo_2024-05-01-04-17-02" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/9310792c-75ee-4c37-be2b-f3716bf533ec">
+<img width="1920" alt="KakaoTalk_Photo_2024-05-01-04-17-02" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/9310792c-75ee-4c37-be2b-f3716bf533ec">
 
 <br><br>
 
@@ -367,22 +367,22 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 
 # **🎨 디자인 무드보드**
 
-<img width="848" alt="KakaoTalk_Photo_2024-05-01-16-04-59" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/04da68b3-f79b-4de0-8791-6829a7b93ac5">
+<img width="1920" alt="KakaoTalk_Photo_2024-05-01-16-04-59" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/04da68b3-f79b-4de0-8791-6829a7b93ac5">
 
-<img width="848" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
+<img width="1920" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
 
 
 <br><br>
 
 # **🔍 System Architecture**
 
-<img width="700" alt="KakaoTalk_Photo_2024-04-29-22-56-18" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/b402f2a9-7788-4930-839d-db045241897d">
+<img width="1920" alt="KakaoTalk_Photo_2024-04-29-22-56-18" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/b402f2a9-7788-4930-839d-db045241897d">
 
 <br><br>
 
 # **📜 ERD 설계도**
 
-<img width="1200" height="350" alt="KakaoTalk_Photo_2024-04-29-23-10-03" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/a2fff552-b87e-4123-9381-6209ec5e142a">
+<img width="1920" height="350" alt="KakaoTalk_Photo_2024-04-29-23-10-03" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/a2fff552-b87e-4123-9381-6209ec5e142a">
 
 <br><br>
 
