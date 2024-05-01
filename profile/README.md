@@ -4,7 +4,7 @@
 
 <br><br>
 
-## 🎓 저희는 대학생을 위한 장학금 추천 및 관리 서비스입니다.
+## 🎓 유니브핏은 대학생을 위한 장학금 추천 및 관리 서비스입니다.
 
 > 대학생을 위한 다양한 교외 장학금, 여러분은 내가 받을 수 있는 장학금을 찾아 혜택을 잘 누리고 계신가요?
 
@@ -342,9 +342,11 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 | 유료 &nbsp; | 유니브핏&nbsp; | 교외장학금 운영 기관&nbsp;  | 카카오톡 알림톡을 통한 광고 집행 - 장학금 공고 추천 알림 발송 - 장학금 마감 디데이 알림 발송 - 장학금 관련 공지사항 안내 알림 발송 |
 
 # **🎨 디자인 무드보드**
-<img width="848" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
 
 <img width="848" alt="KakaoTalk_Photo_2024-05-01-16-04-59" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/04da68b3-f79b-4de0-8791-6829a7b93ac5">
+
+<img width="848" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
+
 
 <br><br>
 
