@@ -178,7 +178,7 @@ _그렇다면, 대학생들이 다양한 장학금 제도를 실질적으로 잘
 
 **SAM x 96.8% (유저리서치 결과 서비스 이용 시 교외 장학금 신청 의향이 있는 대학생의 수) = 약 212만**
 
-<img width ="1000" height="600" alt="KakaoTalk_Photo_2024-05-01-02-57-29" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5ec0e8ca-91c2-4a49-ade5-589bca16e89b">
+<img width ="900" height="500" alt="KakaoTalk_Photo_2024-05-01-02-57-29" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5ec0e8ca-91c2-4a49-ade5-589bca16e89b">
 
 <br>
 
