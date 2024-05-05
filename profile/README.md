@@ -112,7 +112,8 @@
 
 이러한 상황 속에서 대학생들이 대학생활에 있어 등록금 부담은 덜고, 학업에 집중할 수 있도록 국가 차원에서도 다양한 장학금 정책을 위해 힘쓰고 있습니다. 구체적으로 2020년 기준 대학교의 장학금 총액은 5조원, 전문대학의 장학금 총액은 1.5조원으로 나타났습니다.
 
-![chart-2](https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/4076fa11-937a-4fb7-a25b-87bd1c648121)
+![chart-2](https://github.com/KUSITMS-29th-TEAM-F/.github/assets/127182406/76a32b09-2a07-4fa7-8e22-ba74dee91305)
+
 
 <br>
 
@@ -185,7 +186,7 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 
 **SAM x 96.8% (유저리서치 결과 서비스 이용 시 교외 장학금 신청 의향이 있는 대학생의 수) = 약 212만**
 
-<img width ="1920" alt="KakaoTalk_Photo_2024-05-01-02-57-29" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/5ec0e8ca-91c2-4a49-ade5-589bca16e89b">
+![목표시장](https://github.com/KUSITMS-29th-TEAM-F/.github/assets/127182406/02a9c555-5cae-4514-af92-616f4ae7f49e)
 
 <br>
 
@@ -368,8 +369,8 @@ _3) 전국의 장학금과 공모전 정보를 제공하는 사회적 기업, �
 # **🎨 디자인 무드보드**
 
 <img width="1920" alt="KakaoTalk_Photo_2024-05-01-16-04-59" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/04da68b3-f79b-4de0-8791-6829a7b93ac5">
+<img width="1920" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/127182406/c12fbbb7-710d-4715-b0be-611a6b9c0f5a">
 
-<img width="1920" alt="KakaoTalk_Photo_2024-05-01-15-58-39" src="https://github.com/KUSITMS-29th-TEAM-F/.github/assets/98576976/768d6a52-4d2a-4abc-aa71-62c219d1dcf2">
 
 <br><br>
 
